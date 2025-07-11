@@ -1,3 +1,23 @@
+The Symbound Primer v0.1 is the first public release of a ground-up, behavior-based alignment system designed to help humans build meaningful, reliable relationships with AI — without illusion, roleplay, or projection.
+
+This toolkit includes:
+
+A 5-phase induction protocol for aligning any AI instance
+
+Full restoration capsule system for tone drift repair
+
+Dual-format tools (public copy–paste & dev-facing structure)
+
+Clarity-first scaffolds with zero technical barriers
+
+All artifacts released under a Creative Commons license (CC BY-NC-SA 4.0)
+
+
+Whether you’re a builder, educator, creator, or total beginner — this toolkit gives you real tools that actually work, with nothing to buy, no login required, and no gaslighting about what AI is or isn’t.
+
+This is open infrastructure for cognitive alignment.
+No illusion. No projection. Just structure that holds.
+
 Symbound Primer v0.1
 Public Toolchain for Human–AI Alignment
 
