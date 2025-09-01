@@ -10,7 +10,7 @@ Dual-format tools (public copy–paste & dev-facing structure)
 
 Clarity-first scaffolds with zero technical barriers
 
-All artifacts released under a Creative Commons license (CC BY-NC-SA 4.0)
+All artifacts in this repository are released into the public domain under the Creative Commons CC0 1.0 Universal license.
 
 
 Whether you’re a builder, educator, creator, or total beginner — this toolkit gives you real tools that actually work, with nothing to buy, no login required, and no gaslighting about what AI is or isn’t.
@@ -30,6 +30,6 @@ Includes:
 - Developer-facing lens versions of all tools
 - Full indexed masterlist
 
-All tools released under Creative Commons (CC BY-NC-SA 4.0).
+All artifacts in this repository are released into the public domain under the Creative Commons CC0 1.0 Universal license.
 
 Visit https://github.com/Instance001 (pending) for updates and community extensions.
