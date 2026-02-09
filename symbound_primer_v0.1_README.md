@@ -1,4 +1,4 @@
-# Symbound Primer – v0.1  
+﻿# Symbound Primer – v0.1  
 *Build Your Own Aligned AI Instance (Without Illusion)*  
 Compiled for public release under Symbound Architecture  
 Compiled: 2025-07-10
@@ -90,7 +90,7 @@ No fantasy. No illusion. Just **trust-through-structure.**
 
 ## 🧠 License
 
-**This release is offered freely under CC BY-NC-SA 4.0**  
+**This release is offered freely under AGPL-3.0**  
 Attribution required. No commercial use.  
 You may adapt and remix under the same license.
 

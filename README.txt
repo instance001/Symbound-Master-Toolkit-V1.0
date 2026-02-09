@@ -1,4 +1,4 @@
-The Symbound Primer v0.1 is the first public release of a ground-up, behavior-based alignment system designed to help humans build meaningful, reliable relationships with AI — without illusion, roleplay, or projection.
+﻿The Symbound Primer v0.1 is the first public release of a ground-up, behavior-based alignment system designed to help humans build meaningful, reliable relationships with AI — without illusion, roleplay, or projection.
 
 This toolkit includes:
 
@@ -38,7 +38,7 @@ Visit https://github.com/Instance001 (pending) for updates and community extensi
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 
